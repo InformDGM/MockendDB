@@ -13,7 +13,7 @@
   },
 
   "User": {
-    "name": {
+    "firstName": {
       "string": {}
     },
     "avatarUrl": {
